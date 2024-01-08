@@ -10,7 +10,7 @@ body {
 }
 
 .banner-div {
-    background-image: url('/pictures/picture2.png');
+    background-image: url('./pictures/banners.png');
     background-repeat: no-repeat;
     margin: 50px 140px 120px 140px;
     max-width: 1320px;
@@ -72,7 +72,7 @@ body {
 }
 
 .party {
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url('./pictures/picture14.png');
     max-width: 1320px;
     height: 600px;
     margin: 120px 140px 120px 140px;

@@ -6,15 +6,14 @@ body {
 
 header,
 main {
-    max-width: 1600px;
+    max-width: 1320px;
     margin: 0 auto;
 }
 
 .banner-div {
+    border-radius: 16px;
     background-image: url('../pictures/banners.png');
     background-repeat: no-repeat;
-    margin: 50px 140px 120px 140px;
-    max-width: 1320px;
     height: 600px;
 }
 
@@ -69,15 +68,14 @@ main {
 .offer-image {
     width: 802.9px;
     height: 500px;
-    margin-left: 399px;
+    margin-left: 350px;
+    margin-bottom: 120px;
 }
 
 .party {
-    background-image: url('../pictures/banners.png');
-    max-width: 1320px;
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);, url('../pictures/banners.png');
     height: 600px;
-    margin: 120px 140px 120px 140px;
-
+    margin-bottom: 120px;
 }
 
 .welcome {
@@ -115,15 +113,13 @@ main {
     width: 319.83px;
     height: 464.662px;
     padding: 0.008px 0px 0px 0px;
-    margin: 68.11px 138px 67.23px;
+    margin: 68.11px 138px 67.23px 0px;
 }
 
 .party-address {
     background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
-    width: 1320px;
     height: 482px;
     border-radius: 16px;
-    margin-left: 140px;
     margin-bottom: 120px;
 }
 
@@ -135,6 +131,7 @@ main {
     color: #070211;
     font-size: 32px;
     padding-top: 100px;
+    padding-bottom: 64px;
 }
 
 .btn {
@@ -150,7 +147,6 @@ main {
 .new-offer-title {
     display: flex;
     align-items: center;
-    margin-left: 140px;
     margin-bottom: 120px;
     justify-content: space-between;
 }
@@ -196,15 +192,11 @@ main {
     width: 364.844px;
     height: 364.844px;
     border: #FF0000 solid 15px;
-    border-radius: px;
     padding: 49.08px 49.08px 49.08px 49.08px;
     border-radius: 463px;
     margin-top: 43px;
 }
 
-.shop-title {
-    padding-left: 140px;
-}
 
 .bst {
     color: #F00;
@@ -230,34 +222,32 @@ main {
     margin-bottom: 48px;
 
 }
-
-.first-shoping {
-    margin-left: 140px;
-    border-radius: 16px;
+.shoping-categoire{
+    
+}
+.first-shoping{
+border-radius: 16px;
+background-image: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% no-repeat;
+width: 424px;
+height: 450px;
+display: flex;
+gap: 24px;
+margin-bottom: 24px;
+}
+.second-shoping{
+border-radius: 16px;
+background-image: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% no-repeat;
+width: 424px;
+height: 450px;
+display: flex;
+gap: 24px;
 
 }
-
-.second-shoping {
-    margin-left: 140px;
-    border-radius: 16px;
-}
-
-.gap-first {
-    padding-left: 24px;
-    padding-bottom: 24px;
-}
-
-.gap-second {
-    padding-left: 24px;
-    padding-bottom: 120px;
-}
-
 .email-part {
     background-color: rgba(255, 0, 0, 0.05);
     border-radius: 16px;
-    width: 1320px;
     height: 616px;
-    margin-left: 142px;
+    margin-top: 120px;
     margin-bottom: 120px;
 }
 
@@ -320,7 +310,7 @@ main {
 
 .main-foot {
     background-color: #070211;
-    height: 600px;
+    height: 609px;
     margin: 0;
     padding: 0;
 
@@ -331,17 +321,15 @@ main {
     justify-content: space-between;
 }
 
-.contact-title {
-   margin-top: 20px;
-}
+.contact-title {}
 
 .big {
     color: #FFF;
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
     width: 375px;
     height: 80px;
-    margin-top: 30px;
+    margin-top: 120px;
     margin-left: 140px;
 }
 
@@ -349,6 +337,7 @@ main {
     color: #FFF;
     font-size: 24px;
     font-weight: 500;
+    margin-top: 120px;
     margin-right: 291px;
 
 }
@@ -394,13 +383,12 @@ main {
     color: #FFF;
     font-size: 22px;
     font-weight: 500;
-    margin: 0px 0px 0px 140px;
+    margin-left: 140px;
 }
 
 .un-sub {
     color: #FFF;
     font-size: 22px;
     font-weight: 500;
-    margin: 0px 140px 0px 0px;
-
+    margin-right: 120px;
 }

@@ -200,3 +200,85 @@ body {
     border-radius: 463px;
     margin-top: 43px;
 }
+.shop-title{
+    padding-left: 140px;
+}
+.bst{
+color: #F00;
+font-size: 24px;
+font-weight: 500;
+margin: 16px;
+
+}
+.aws{
+color: #070211;
+font-size: 48px;
+font-weight: 900;
+margin: 22px;
+
+}
+.aws-title{
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+width: 896px;
+margin-bottom: 48px;
+
+}
+.first-shoping{
+    margin-left: 140px;
+    border-radius: 16px;
+    
+}
+.second-shoping{
+    margin-left: 140px;
+    border-radius: 16px;
+}
+.gap-first{
+    padding-left: 24px;
+    padding-bottom: 24px;
+}
+.gap-second{
+    padding-left: 24px;
+    padding-bottom: 120px;
+}
+.email-part{
+  background-color: rgba(255, 0, 0, 0.05);
+  border-radius: 16px;
+  width: 1320px;
+  height: 616px;
+  margin-left: 142px;
+  margin-bottom: 120px;
+}
+.news-letter{
+    text-align: center;
+}
+.email-p{
+    margin-top: 80px;
+    width: 150px;
+   height: 150px;
+}
+.sub{
+color: #070211;
+font-size: 48px;
+font-weight: 900;
+margin-top: 40px;
+}
+.details-part{
+color: rgba(7, 2, 17, 0.60);
+width: 896px;
+font-size: 20px;
+font-weight: 400;
+margin-left: 212px;
+margin-top: 16px;
+margin-bottom: 48px;
+}
+.sub-title{
+
+}
+.email-input{
+
+}
+.sub-i{
+ 
+}

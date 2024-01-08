@@ -10,7 +10,7 @@ body {
 }
 
 .banner-div {
-    background-image: url('/resources/Banner\ Image.png');
+    background-image: url();
     background-repeat: no-repeat;
     margin: 50px 140px 120px 140px;
     max-width: 1320px;

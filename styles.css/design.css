@@ -10,7 +10,6 @@ body {
 }
 
 .banner-div {
-    background-image: url('/posters/banner.png');
     margin: 50px 140px 120px 140px;
     max-width: 1320px;
     height: 600px;

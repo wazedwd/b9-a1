@@ -75,8 +75,8 @@ text-shadow: 5px 5px 5px black;
     margin-bottom: 48px;
 }
 .second-categorie:hover{
-color: rgb(231, 74, 74);
-text-shadow: 5px 5px 5px black;
+color: rgb(230, 108, 108);
+text-shadow: 4px 4px 10px black;
 }
 
 .offer-image {
@@ -87,7 +87,8 @@ text-shadow: 5px 5px 5px black;
 }
 .offer-image:hover{
     background: url(<path-to-image>), rgb(240, 138, 138) 50% / cover no-repeat;
-    
+    box-shadow: 5px 5px 10px blue;
+    border-radius: 5px;
 }
 .party {
    background-image: url('../pictures/banners.png');

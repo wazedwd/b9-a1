@@ -245,9 +245,13 @@ span{
     text-shadow: 5px 5px 5px black;
 
 }
-.first-shoping:hover, .second-shoping:hover{
- 
+.first-image:hover, .second-image:hover{
+    width: 450px;
+    height: 470px;
+    border-radius: 16px;
+    box-shadow: 5px 5px 10px red;
 }
+
 .bst {
     color: #F00;
     font-size: 24px;
@@ -275,7 +279,6 @@ span{
 
 .first-shoping{
 border-radius: 16px;
-background-image: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% no-repeat;
 width: 424px;
 height: 450px;
 display: flex;
@@ -284,7 +287,6 @@ margin-bottom: 24px;
 }
 .second-shoping{
 border-radius: 16px;
-background-image: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% no-repeat;
 width: 424px;
 height: 450px;
 display: flex;
